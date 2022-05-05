@@ -9,4 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Sesiones"
+      menu:
+        - text: "Conectar RStudio con Github"
+          href: cosas_de_r.html
 output: distill::distill_article
