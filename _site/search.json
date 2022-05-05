@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-05-05T11:14:32-05:00"
+      "last_modified": "2022-05-05T11:33:49-05:00"
     },
     {
       "path": "cosas_de_r.html",
@@ -20,7 +20,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-05-05T11:28:08-05:00"
+      "last_modified": "2022-05-05T11:33:52-05:00"
     },
     {
       "path": "index.html",
@@ -28,7 +28,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-05-05T11:14:38-05:00"
+      "last_modified": "2022-05-05T11:33:53-05:00"
     }
   ],
   "collections": []
